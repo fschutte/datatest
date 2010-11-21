@@ -1,4 +1,8 @@
 <?php
+
+/* extra regeltje */
+
+
   /**
    * See http://www.tutorialized.com/tutorials/PHP/Redirection/1
    * 
