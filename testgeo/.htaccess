@@ -1,0 +1,12 @@
+#FS    
+DirectoryIndex test2.php index.html
+
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+AuthType Basic
+
+AuthName Restricted
+
+Require user testuser
+AuthUserFile /home/www/1ed2aca9c6070010713e6a7695db72f7/.htpasswd
+AuthGroupFile /home/www/1ed2aca9c6070010713e6a7695db72f7/.htgroup
